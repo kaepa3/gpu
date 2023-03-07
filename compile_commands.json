@@ -1,0 +1,11 @@
+[
+ {
+  "directory": "C:\\Users\\kaepa\\Documents\\prog\\cuda",
+  "arguments": [
+   "nvcc",
+   "hello.cu",
+   "-nocudalib"
+  ],
+  "file": "hello.cu"
+ }
+]
